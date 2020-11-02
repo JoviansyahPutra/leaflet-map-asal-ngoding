@@ -1,0 +1,9 @@
+Keterangan database web GIS :
+1. nama db = web_GIS
+2. tabel 1 = bangunan
+.bangunan_id		INT		key		Auto.Increment = true
+.bangunan_nama		VAR (100)
+.bangunan_lat		VAR (100)
+.bangunan_long		VAR (100)
+
+
